@@ -29,5 +29,5 @@ document.querySelectorAll("button").forEach(button => {
 
 // تحميل التطبيق (كمثال)
 function downloadAPK() {
-    window.location.href ="https://github.com/IceRegant2/Ayat/releases/tag/v1.0/Ayat.Quran.apk";
+    window.location.href ="https://github.com/IceRegant2/Ayat/releases/download/v1.0/Ayat.Quran.apk";
 }
